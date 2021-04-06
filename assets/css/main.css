@@ -235,7 +235,10 @@ Portofolio
   }
   .accordion{
     text-align:justify;
+    margin-right:-25px;
+    margin-left:-25px;
   }
+
   .accordion img{
     width: 100%;
     margin-left:auto;
