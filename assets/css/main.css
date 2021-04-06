@@ -292,8 +292,6 @@ Client
   letter-spacing: 0.25px;
   margin: 0px;
   font:bold;
-  padding-left:50px;
-  margin-bottom: -15px;
 }
 
 
@@ -313,7 +311,6 @@ Client
 
 @media (max-width: 768px) {
   .client img {
-    margin: 15px 15px;
     width:80% ;
   }
 }
