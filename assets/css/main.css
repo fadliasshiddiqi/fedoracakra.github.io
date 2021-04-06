@@ -204,7 +204,7 @@ Portofolio
 --------------------------------------------- */
 /* Desktop Navigation */
 .accordion{
-  padding: 40px;
+  padding-top: 40px;
   background-color: #f9f9f9;
 }
 
@@ -239,8 +239,6 @@ Portofolio
   }
   .accordion{
     text-align:justify;
-    margin-right:-35px;
-    margin-left:-35px;
   }
 
   .accordion img{
